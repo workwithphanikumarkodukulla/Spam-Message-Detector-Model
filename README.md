@@ -6,6 +6,9 @@
 
 ## 🚀 Live Demo
 > https://spam-message-detector-model-1.onrender.com
+
+---
+
 ![SpamGuard UI](docs/preview.png)
 
 ---
