@@ -31,4 +31,4 @@ def home():
             prediction = "Spam" if result == 1 else "Ham"
     return render_template("index.html", prediction=prediction, message=message)
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
